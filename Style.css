@@ -147,7 +147,7 @@ body {
 }
 
 .lista__link a:hover {
-    color: var(--cor-do-botao);
+    color: indigo;
 }
 h1:hover {
     color: var(--cor-do-botao);
